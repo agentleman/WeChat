@@ -1,0 +1,19 @@
+{
+  "name": "wechat-demo",
+  "version": "1.0.0",
+  "description": "demo",
+  "main": "server.js",
+  "scripts": {
+    "test": "new_demo"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.6.2",
+    "raw-body": "^2.3.3",
+    "request": "^2.88.0",
+    "sha1": "^1.1.1",
+    "util": "^0.11.1",
+    "xml2js": "^0.4.19"
+  }
+}
